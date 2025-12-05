@@ -1,0 +1,5 @@
+{
+  "name": "DreamInsight",
+  "description": "An AI-powered dream journal that analyzes the psychological meaning of your dreams, tracks your subconscious stress levels over time, and offers daily advice.",
+  "requestFramePermissions": []
+}
